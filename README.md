@@ -4,7 +4,7 @@ Predicting which patients are at risk of discontinuing care, using demographic, 
 
 ## Project Overview
 
-Patient churn — when a patient stops using a healthcare provider's services — is costly for both patient outcomes and provider revenue. This project builds a predictive model to flag at-risk patients early, using exploratory data analysis (EDA) to identify the strongest behavioral, financial, and satisfaction-related churn drivers before moving into modeling.
+Patient churn, when a patient stops using a healthcare provider's services, is costly for both patient outcomes and provider revenue. This project builds a predictive model to flag at-risk patients early, using exploratory data analysis (EDA) to identify the strongest behavioral, financial, and satisfaction-related churn drivers before moving into modeling.
 
 **Objective:** Predict whether a patient will churn (`Churned` = 1) based on demographics, healthcare utilization, satisfaction scores, and financial metrics.
 
